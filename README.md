@@ -9,7 +9,7 @@ function welcome(){
 	optimal team synergy.");
 }
 
-# Features
+ Features
 
 - [GitHub Stats Card](#github-stats-card)
 - [GitHub Extra Pins](#github-extra-pins)
