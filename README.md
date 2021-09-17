@@ -9,10 +9,3 @@ function welcome(){
 	optimal team synergy.");
 }
 
- Features
-
-- [GitHub Stats Card](#github-stats-card)
-- [GitHub Extra Pins](#github-extra-pins)
-- [Top Languages Card](#top-languages-card)
-- [Wakatime Week Stats](#wakatime-week-stats)
-- [Themes](#themes)
