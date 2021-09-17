@@ -8,3 +8,11 @@ function welcome(){
 	I develop very quickly in work groups, always looking for the best environment to achieve
 	optimal team synergy.");
 }
+
+# Features
+
+- [GitHub Stats Card](#github-stats-card)
+- [GitHub Extra Pins](#github-extra-pins)
+- [Top Languages Card](#top-languages-card)
+- [Wakatime Week Stats](#wakatime-week-stats)
+- [Themes](#themes)
